@@ -12,7 +12,7 @@ I would revise the functional requirements section in Project One. I feel like I
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 -
-The users needs informed me every step of the way! I translated the client's requirements into use cases, which focused on user needs. For example, if the IT officer needs to be able to reset a student's password, then the system must allow for that in its plan and design. It's so important to consider the user's needs when designing because, otherwise, the project will surely be lacking. Users cover customers and staff, and without designing with their usage in mind, one isn't really designing for the system at all. This system was meant for use, so without thinking of the users, a systems analyst would just design something fancy to look at.
+The users needs informed me every step of the way! I translated the client's requirements into use cases, which focused on user needs. For example, if the IT officer needs to be able to reset a student's password, then the system must allow for that process in steps in its plan and design. It's so important to consider the user's needs when designing because, otherwise, the project will surely be lacking. Users cover customers and staff, and without designing with their usage in mind, one isn't really designing for the system at all. This system was meant for use, so without thinking of the users, a systems analyst would just design something fancy to look at.
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 -
